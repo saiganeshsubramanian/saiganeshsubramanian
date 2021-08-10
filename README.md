@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saiganeshsubramanian
-- 👀 I’m interested in Geometric modeling, Physics Simulations
+- 👀 I’m interested in Meshing and Physics Simulations.
 - 🌱 I’m currently learning how to write production-level C++ code.
 - 📫 How to reach me: ssubra@cadence.com
 
